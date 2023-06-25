@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class test {
+class QuickSort {
     public static int partition(int arr[], int LB, int UB) {
         int start, end, pivot;
         start = LB;
